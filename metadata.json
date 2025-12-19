@@ -1,0 +1,5 @@
+{
+  "name": "Chromancy: AI Aura Reader",
+  "description": "Upload a photo to reveal its energetic color palette, mystical vibe description, and sonic identity using Gemini Vision.",
+  "requestFramePermissions": []
+}
